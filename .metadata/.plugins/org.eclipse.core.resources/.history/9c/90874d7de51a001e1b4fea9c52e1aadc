@@ -1,0 +1,9 @@
+package com.formacionbdi.springboot.app.gateway.security;
+
+import org.springframework.security.authentication.ReactiveAuthenticationManager;
+import org.springframework.stereotype.Component;
+
+@s
+public class AuthenticationManagerJWT implements ReactiveAuthenticationManager {
+
+}
